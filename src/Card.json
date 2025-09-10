@@ -1,0 +1,80 @@
+
+
+{
+  "limitedPopularModels": [
+    {
+      "brand": {
+        "name": "BYD",
+        "slug": "byd"
+      },
+      "model": {
+        "name": "Seagull",
+        "nameSlug": "seagull"
+      },
+      "year": {
+        "name": 2024
+      },
+      "image": "https://s3.ap-southeast-1.amazonaws.com/cdn.automate-kh.com/images/1741242043310.webp",
+      "lowestTrimPrice": 19300,
+      "highestTrimPrice": 19300,
+      "latestListedAt": "2025-08-29T06:26:11.389Z",
+      "isPromotion": false
+    },
+    {
+      "brand": {
+        "name": "Toyota",
+        "slug": "toyota"
+      },
+      "model": {
+        "name": "Wigo",
+        "nameSlug": "wigo"
+      },
+      "year": {
+        "name": 2024
+      },
+      "image": "https://s3.ap-southeast-1.amazonaws.com/cdn.automate-kh.com/images/1737544374049.webp",
+      "lowestTrimPrice": 19900,
+      "highestTrimPrice": 19900,
+      "latestListedAt": "2025-08-29T06:07:28.409Z",
+      "isPromotion": false
+    },
+    {
+      "brand": {
+        "name": "Suzuki",
+        "slug": "suzuki"
+      },
+      "model": {
+        "name": "Celerio",
+        "nameSlug": "celerio"
+      },
+      "year": {
+        "name": 2025
+      },
+      "image": "https://s3.ap-southeast-1.amazonaws.com/cdn.automate-kh.com/images/1740540681556.webp",
+      "lowestTrimPrice": 17600,
+      "highestTrimPrice": 17600,
+      "latestListedAt": "2025-04-07T06:30:11.531Z",
+      "isPromotion": false
+    },
+    {
+      "brand": {
+        "name": "Mazda",
+        "slug": "mazda"
+      },
+      "model": {
+        "name": "2",
+        "nameSlug": "2"
+      },
+      "year": {
+        "name": 2025
+      },
+      "image": "https://s3.ap-southeast-1.amazonaws.com/cdn.automate-kh.com/images/1739784697903.webp",
+      "lowestTrimPrice": 19999,
+      "highestTrimPrice": 19999,
+      "latestListedAt": "2025-03-25T08:54:27.962Z",
+      "isPromotion": false
+    }
+  ],
+  "totalCount": 4
+}
+

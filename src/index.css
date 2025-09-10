@@ -1,0 +1,20 @@
+
+
+.heading1
+{
+  color:aqua
+}
+
+.im 
+{
+  display:flex;
+  justify-content: center;
+ 
+}
+
+.im img
+{
+  
+  width:200px;
+  height:100px
+}
