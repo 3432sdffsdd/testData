@@ -5,11 +5,17 @@ import Carwithapi from "./Carwithapi";
 
 const App=()=>
 {
+
+    
+
+
+
     return(<>
 
     
-      <Car/> 
+      {/* <Car/>  */}
       <Carwithapi/>
+
 
 
 </>
